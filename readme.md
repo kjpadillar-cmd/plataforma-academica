@@ -15,4 +15,4 @@ Este repositorio forma parte del taller práctico de Control de Versiones para l
 ## Tecnologías Utilizadas
 * HTML5
 * CSS3
-* Git y GitHub
+* Git y GitHub 
